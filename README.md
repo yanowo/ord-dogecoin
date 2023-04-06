@@ -1,3 +1,6 @@
+This is clone https://github.com/apezord/ord-dogecoin
+And build Windows ord-dogecoin.exe
+
 # Shibes
 
 You should periodically create checkpoints of the redb database that you can restore from. Dogecoin has more reorgs than bitcoin due to its 1 minute block times and casey/ord does not handle reorgs. There is an open issue [here](https://github.com/casey/ord/issues/148).
